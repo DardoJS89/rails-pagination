@@ -1,6 +1,6 @@
 # README
 
-1. Started a new rails app , generating the controller , the model & the views. 
+1. Started a new rails app , generating the controller , the model & the view. 
 
 2. Defined the parameters for the users, the range, and the max. Created a seed file , and then migrated the database and seed file. 
 
